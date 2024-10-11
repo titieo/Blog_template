@@ -14,12 +14,12 @@ npm create astro@latest -- --template blog
 
 Features:
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+-   ✅ Minimal styling (make it your own!)
+-   ✅ 100/100 Lighthouse performance
+-   ✅ SEO-friendly with canonical URLs and OpenGraph data
+-   ✅ Sitemap support
+-   ✅ RSS Feed support
+-   ✅ Markdown & MDX support
 
 ## 🚀 Project Structure
 
@@ -66,3 +66,10 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 ## Credit
 
 This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+
+<!-- TODO:
+1. Font:
+   - Linux Biolinum (https://www.dafont.com/linux-biolinum.font) pair with Gentium Plus(https://fonts.google.com/specimen/Gentium+Plus)
+   - Avenir Next Pro Font Family (https://www.dafontvn.com/2020/12/avenir-next-pro-font-family-24-font.html)
+   - Sen (https://fonts.google.com/specimen/Sen)
+ -->
